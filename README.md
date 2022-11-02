@@ -1,6 +1,6 @@
-# My Website
+## My Website
 https://joseph-468.netlify.app/
-## About me
+### About me
 - 👋 Hello, My name is Joseph
 - 👀 I’m interested in creating small projects with python and buildling a good programming foundation
 - 🌱 I’m currently learning python and javascript

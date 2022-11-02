@@ -1,4 +1,4 @@
-### My website
+### My Website
 https://joseph-468.netlify.app/
 ## About me
 - 👋 Hello, My name is Joseph

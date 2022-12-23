@@ -1,5 +1,5 @@
 ## My Website
-https://joseph-468.netlify.app/
+https://josephalba.net
 ### About me
 - 👋 Hello, My name is Joseph
 - 👀 I’m interested in creating small projects with python and buildling a good programming foundation

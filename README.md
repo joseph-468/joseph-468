@@ -1,8 +1,7 @@
-## My Website
+## About me
+Hello, my name is Joseph and I'm a programmer from the UK!
+I'm currently interested in programming and mainly code in C or Python depending on the task.
+I hope you enjoy or can find some use out of some of the projects I have made :)
+
+### My Website
 https://josephalba.net
-### About me
-- 👋 Hello, My name is Joseph
-- 👀 I’m interested in creating small projects with python and buildling a good programming foundation
-- 🌱 I know Python and am learning Rust
-- 💞️ I’m looking to collaborate on any projects if I find them interesting and doable
-- 📫 Contact me @joseph_468#0044 on Discord
